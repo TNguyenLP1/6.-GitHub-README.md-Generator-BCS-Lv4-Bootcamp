@@ -7,6 +7,9 @@ from readme_generator.generator import ReadmeGenerator
 from rich.console import Console
 # Importing console from rick for styling output
 
+from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn
+# Importing progress components for visual feedback
+
 console = Console()
 # Setting console 
 
