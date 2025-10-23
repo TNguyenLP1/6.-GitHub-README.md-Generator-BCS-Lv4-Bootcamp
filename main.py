@@ -10,6 +10,9 @@ from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn
 # Importing progress components for visual feedback
 
+import time
+# Importing time module to simulate delays
+
 console = Console()
 # Setting console 
 
