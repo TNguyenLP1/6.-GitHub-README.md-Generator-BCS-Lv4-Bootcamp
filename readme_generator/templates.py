@@ -5,13 +5,18 @@ README_TEMPLATE = """# {title}
 
 ---
 
-## Installation
-{installation}
+## Technologies Used
+{technologies}
 
 ---
 
 ## Usage
 {usage}
+
+---
+
+## How To Use
+{howto}
 
 ---
 

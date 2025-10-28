@@ -31,19 +31,24 @@ class CLI:
 
             {
                 "type": "input",
-                "name": "installation",
-                "message": "Enter installation instructions:",
-                "default": "pip install -r requirements.txt",
+                "name": "technologies",
+                "message": "Enter technology used for this project:",
             },
-            # Add installation instructions
+            # Add technology used to showcase project
 
             {
                 "type": "input",
                 "name": "usage",
-                "message": "Enter usage instructions:",
-                "default": "python main.py",
+                "message": "Enter usage for this project:",
             },
             # Add usage instructions
+
+            {
+                "type": "input",
+                "name": "howto",
+                "message": "Enter usage instruction for this project:",
+            },
+            # Add how to use instructions
 
             {
                 "type": "list",
