@@ -6,12 +6,12 @@ This is a short python script, that allow for a quick and efficient manner in wh
 ---
 
 ## Technologies Used
-Programming Language - Python; 
-Terminal UI Styling - Rich Library; 
-CLI Prompt-based - with Built-in "input()"; 
-File Handling - with Python built-in IO using "open()"; 
-Time Control - "time" Module to help with UX and UI; 
-Project Structuring - using "__init__.py".
+1. Programming Language - Python; 
+2. Terminal UI Styling - Rich Library; 
+3. CLI Prompt-based - with Built-in "input()"; 
+4. File Handling - with Python built-in IO using "open()"; 
+5. Time Control - "time" Module to help with UX and UI; 
+6. Project Structuring - using "__init__.py".
 
 ---
 
